@@ -1,15 +1,123 @@
 {
-  "posts": [
+  "rewards": [
     {
       "id": 1,
-      "title": "hello"
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
     },
     {
       "id": 2,
-      "title": "Mark"
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {"id": 3,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 4,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 5,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 6,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 7,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 8,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 9,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 10,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 11,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 12,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 13,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 14,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
+    },
+    {
+      "id": 15,
+      "location": "Tasty Muffins, Foster City, CA-94404",
+      "criteria": "Fully vaccinated",
+      "start_date": "",
+      "end_date": "2021-05-31",
+      "timezone": "PST"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
