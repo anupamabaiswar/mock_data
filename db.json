@@ -2,7 +2,7 @@
   "rewards": [
     {
       "id": 1,
-      "url" :"https://via.placeholder.com/150
+      "url" : "https://via.placeholder.com/150"
      "location": "Tasty Muffins, Foster City, CA-94404",
       "criteria": "Fully vaccinated",
       "start_date": "",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-       "url" :"https://via.placeholder.com/150
+       "url" : "https://via.placeholder.com/150"
       "location": "Tasty Muffins, Foster City, CA-94404",
       "criteria": "Fully vaccinated",
       "start_date": "",
