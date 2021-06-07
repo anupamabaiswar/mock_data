@@ -96,43 +96,14 @@
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
-     {
-      "deal": "Kroger",
-       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
-     
-     },
-     {
-      "deal": "Kroger",
-       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
-     
-     },
-     {
-      "deal": "Kroger",
-       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
-     
-     },
-     {
-      "deal": "Kroger",
-       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
-     
-     },
-     {
-      "deal": "Kroger",
-       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
-     
-     },
+    
     {
       "deal": "IBM providing paid tome offs",
        "amount": "80",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
-     {
-      "deal": "Nathan's Famous",
-       "amount": "2",
-       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
-     
-     },
+    
     {
       "deal": "Starbucks",
        "amount": "30",
@@ -195,18 +166,8 @@
        "amount": "100",
        "description": "paied time off to employee to get vaccinated"
      
-     },
-     {
-      "deal": "Auto zone",
-       "amount": "5",
-       "description": "Auto zone to pay workers $100 to receive COVID-19 vaccine "
-     
-     },
-     {
-      "deal": "Kinder care",      
-       "description": "Free childcare to help parent and caregivers both get vaccinated"
-     
      }
+   
     
   ]
 
