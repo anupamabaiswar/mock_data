@@ -1,138 +1,129 @@
 {
   "rewards": [
-    {
-      "id": 1,
-      "url" : "https://via.placeholder.com/150/92c952",
-     "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 2,
-       "url" : "https://via.placeholder.com/150/771796",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {"id": 3,
-      "url" : "https://via.placeholder.com/150/24f355",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 4,
-      "url" : "https://via.placeholder.com/150/d32776",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 5,
-      "url" : "https://via.placeholder.com/150/f66b97",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 6,
-      "url" : "https://via.placeholder.com/150/b0f7cc",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 7,
-      "url" : "https://via.placeholder.com/150/24f355",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 8,
-       "url" : "https://via.placeholder.com/150/771796",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 9,
-        "url" : "https://via.placeholder.com/150/24f355",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 10,
-      "url" : "https://via.placeholder.com/150/d32776",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 11,
-       "url" : "https://via.placeholder.com/150/771796",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 12,
-       "url" : "https://via.placeholder.com/150/92c952",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 13,
-      "url" : "https://via.placeholder.com/150/d32776",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 14,
-       "url" : "https://via.placeholder.com/150/24f355",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    },
-    {
-      "id": 15,
-       "url" : "https://via.placeholder.com/150/54176f",
-      "location": "Tasty Muffins, Foster City, CA-94404",
-      "criteria": "Fully vaccinated",
-      "start_date": "",
-      "end_date": "2021-05-31",
-      "timezone": "PST"
-    }
+     {
+      "deal": "Tyson Foods",
+       "ampount": "10",
+       "description": "Four hours of pay to get vaccinated"
+     
+     },
+     {
+      "deal": "AllState",
+       "ampount": "100",
+       "description": "paied time off to employee to get vaccinated"
+     
+     },
+     {
+      "deal": "Auto zone",
+       "ampount": "5",
+       "description": "Auto zone to pay workers $100 to receive COVID-19 vaccine "
+     
+     },
+     {
+      "deal": "Kinder care",      
+       "description": "Free childcare to help parent and caregivers both get vaccinated"
+     
+     },
+     {
+      "deal": "Kroger",
+       "ampount": "5",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Vitamin Shoppe",
+       "ampount": "3",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Darden to offer up to 4 paid",
+       "description": " Darden Restaurants Inc. will be offering its hourly workers up to four hours of pay as incentive to get both of the COVID-19 vaccines"
+     
+     },
+     {
+      "deal": "CVS",
+      "deal": "5",
+       "description": "sweepstakes wins free crushes, tickets to super bowl and cash prizes"
+     
+     },
+     {
+      "deal": "Microsoft",
+       "description": "Thousands of xboxes to boys and girls club in hard hits area to help pramote the importance of vaccination"
+     
+     },
+     {
+      "deal": "Budviser",
+       "ampount": "3",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Delta",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Drop",
+       "ampount": "50",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "United health group",
+       "description": "Paid time off to get vaccinated"
+     
+     },
+     {
+      "deal": "Starbucks",
+       "ampount": "30",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "IBM providing paid tome offs",
+       "ampount": "80",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Nathan's Famous",
+       "ampount": "2",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Kroger",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Kroger",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Kroger",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Kroger",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Kroger",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Kroger",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+    
+  
   ]
+
 }
+
