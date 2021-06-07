@@ -122,8 +122,9 @@
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
+    
   {
-      "deal": "Delta",
+    "deal": "Delta",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
@@ -155,19 +156,7 @@
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
-    {
-      "deal": "Tyson Foods",
-       "amount": "10",
-       "description": "Four hours of pay to get vaccinated"
-     
-     },
-     {
-      "deal": "AllState",
-       "amount": "100",
-       "description": "paied time off to employee to get vaccinated"
-     
-     }
-   
+    
     
   ]
 
