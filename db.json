@@ -2,19 +2,19 @@
   "rewards": [
      {
       "deal": "Tyson Foods",
-       "ampount": "10",
+       "amount": "10",
        "description": "Four hours of pay to get vaccinated"
      
      },
      {
       "deal": "AllState",
-       "ampount": "100",
+       "amount": "100",
        "description": "paied time off to employee to get vaccinated"
      
      },
      {
       "deal": "Auto zone",
-       "ampount": "5",
+       "amount": "5",
        "description": "Auto zone to pay workers $100 to receive COVID-19 vaccine "
      
      },
@@ -25,13 +25,13 @@
      },
      {
       "deal": "Kroger",
-       "ampount": "5",
+       "amount": "5",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
      {
       "deal": "Vitamin Shoppe",
-       "ampount": "3",
+       "amount": "3",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
@@ -42,7 +42,7 @@
      },
      {
       "deal": "CVS",
-      "deal": "5",
+      "amount": "5",
        "description": "sweepstakes wins free crushes, tickets to super bowl and cash prizes"
      
      },
@@ -53,7 +53,7 @@
      },
      {
       "deal": "Budviser",
-       "ampount": "3",
+       "amount": "3",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
@@ -64,7 +64,7 @@
      },
      {
       "deal": "Drop",
-       "ampount": "50",
+       "amount": "50",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
@@ -75,19 +75,19 @@
      },
      {
       "deal": "Starbucks",
-       "ampount": "30",
+       "amount": "30",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
      {
       "deal": "IBM providing paid tome offs",
-       "ampount": "80",
+       "amount": "80",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
      {
       "deal": "Nathan's Famous",
-       "ampount": "2",
+       "amount": "2",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
      
      },
@@ -119,10 +119,95 @@
      {
       "deal": "Kroger",
        "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+    {
+      "deal": "IBM providing paid tome offs",
+       "amount": "80",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+     {
+      "deal": "Nathan's Famous",
+       "amount": "2",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+    {
+      "deal": "Starbucks",
+       "amount": "30",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+    {
+      "deal": "United health group",
+       "description": "Paid time off to get vaccinated"
+     
+     },
+    
+     {
+      "deal": "Drop",
+       "amount": "50",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+  {
+      "deal": "Delta",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+    {
+      "deal": "Budviser",
+       "amount": "3",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+    {
+      "deal": "Microsoft",
+       "description": "Thousands of xboxes to boys and girls club in hard hits area to help pramote the importance of vaccination"
+     
+     },
+     {
+      "deal": "CVS",
+      "amount": "5",
+       "description": "sweepstakes wins free crushes, tickets to super bowl and cash prizes"
+     
+     },
+     {
+      "deal": "Darden to offer up to 4 paid",
+       "description": " Darden Restaurants Inc. will be offering its hourly workers up to four hours of pay as incentive to get both of the COVID-19 vaccines"
+     
+     },
+    {
+      "deal": "Vitamin Shoppe",
+       "amount": "3",
+       "description": "The one-time $100 vaccine payment will be offered to all associates who receive the full manufacturer-recommended doses of the COVID-19 vaccine"
+     
+     },
+    {
+      "deal": "Tyson Foods",
+       "amount": "10",
+       "description": "Four hours of pay to get vaccinated"
+     
+     },
+     {
+      "deal": "AllState",
+       "amount": "100",
+       "description": "paied time off to employee to get vaccinated"
+     
+     },
+     {
+      "deal": "Auto zone",
+       "amount": "5",
+       "description": "Auto zone to pay workers $100 to receive COVID-19 vaccine "
+     
+     },
+     {
+      "deal": "Kinder care",      
+       "description": "Free childcare to help parent and caregivers both get vaccinated"
      
      }
     
-  
   ]
 
 }
